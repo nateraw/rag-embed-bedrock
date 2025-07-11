@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Document embedding script for RAG solution using Amazon Bedrock.
-Processes PDF and DOCX files from S3, creates embeddings, and saves locally.
-"""
-
 import json
 import pickle
 import fire

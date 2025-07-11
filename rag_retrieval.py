@@ -1,8 +1,3 @@
-"""
-RAG retrieval functions for downstream application.
-Use these functions in your Streamlit app to perform retrieval-augmented generation.
-"""
-
 import json
 import numpy as np
 import boto3
